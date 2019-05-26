@@ -1,0 +1,96 @@
+baseurl = "/"
+title = "Diana P. Gómez"
+author = "Diana P. Gómez"
+googleAnalytics = ""
+defaultContentLanguage = "es"
+language = "es-ES"
+paginate = 5 # Number of posts per page
+
+theme = "terrassa"
+themesDir = "themes/" # Not necessary on production sites
+
+[outputs]
+    home = ["HTML", "RSS"]
+    page = ["HTML", "RSS"]
+
+[params]
+    description = "Organizo eventos, doy charlas, gestiono, coordino, comunico, leo, juego, escucho, veo y me meto en mil follones."
+    favicon = "favicon.ico" # Relative URL
+    logo = "" # Absolute URL
+
+[params.hero]
+    textColor = "" # Empty for default color
+
+[params.cta] # Call To Action
+    show = true
+    cta = "Contacto"
+    link = "contact" # Relative URL
+
+[params.separator] # Separators between sections on the home page
+    show = true
+
+[params.fa] # Font Awesome options
+    version = "5.7.2"
+    integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
+
+[params.form] # Contact form
+    netlify = false # Use only if you are using Netlify
+    action = "https://formspree.io/your@email.com"
+    method = "POST"
+    inputNameName = "nombre"
+    inputNameLabel = "Nombre"
+    inputNamePlaceholder = "Tu nombre"
+    inputEmailName = "email"
+    inputEmailLabel = "Email"
+    inputEmailPlaceholder = "Tu email"
+    inputMsgName = "Mensaje"
+    inputMsgLabel = "Escríbeme algo"
+    inputMsgLength = 750
+    inputSubmitValue = "Enviar"
+
+[params.posts]
+    showAuthor = false
+    showDate = false
+    showTags = true
+    dateFormat = "Monday, Jan, 2006"
+
+[params.contact] # Contact info
+
+[params.social] # Social networks
+    twitter = "https://twitter.com/diana_twittea"
+    facebook = ""
+    github = ""
+    gitlab = ""
+    codepen = ""
+    instagram = "https://instagram.com/imdianap"
+    pinterest = ""
+    youtube = ""
+    linkedin = "https://www.linkedin.com/in/dianapgomez"
+    weibo = ""
+    mastodon = ""
+    tumblr = ""
+    flickr = ""
+    "500px" = ""
+
+[params.copy] # Copyright
+    copy = "" # Empty for default content
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = true
+        simple = false
+    [privacy.vimeo]
+        disable = false
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
