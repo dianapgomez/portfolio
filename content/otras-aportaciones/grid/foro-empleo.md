@@ -1,7 +1,7 @@
 ---
 title: "Conferencia Foro Empleo"
 date: 2019-05-25T14:03:17+02:00
-draft: true
+draft: false
 image: "img/otras-aportaciones/grid/foro-empleo.jpg"
 ---
 

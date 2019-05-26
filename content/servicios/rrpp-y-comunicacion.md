@@ -1,7 +1,7 @@
 ---
 title: "RRPP y comunicación"
 date: 2019-05-05T16:18:11+02:00
-draft: true
+draft: false
 ---
 
 **La comunicación me apasiona y me intriga**. Mi incursión en el mundo laboral fue en proyectos de comunicación y a día de hoy puedo decir que es el campo más creativo, versátil y cambiante en el que he trabajado. Trabajar en relaciones públicas de estudios independientes me ayudó a tener mucho más clara la cadena de producción de la industria del videojuego, porqué algunos triunfan y otros no, qué hay detrás de una buena comunidad de seguidores y que una buena estrategia de comunicación es indispensable para el éxito de una empresa, producto, evento, etc.
