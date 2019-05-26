@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gremlins Inc. on Diana P. Gómez</title>
+    <link>/trabajos/grid/gremlins/</link>
+    <description>Recent content in Gremlins Inc. on Diana P. Gómez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 May 2019 00:28:13 +0200</lastBuildDate>
+    
+	<atom:link href="/trabajos/grid/gremlins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

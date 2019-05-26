@@ -5,6 +5,7 @@ googleAnalytics = ""
 defaultContentLanguage = "es"
 language = "es-ES"
 paginate = 5 # Number of posts per page
+publishDir = "docs"
 
 theme = "terrassa"
 themesDir = "themes/" # Not necessary on production sites

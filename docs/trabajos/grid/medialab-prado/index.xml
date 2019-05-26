@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medialab Prado on Diana P. Gómez</title>
+    <link>/trabajos/grid/medialab-prado/</link>
+    <description>Recent content in Medialab Prado on Diana P. Gómez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 May 2019 00:11:10 +0200</lastBuildDate>
+    
+	<atom:link href="/trabajos/grid/medialab-prado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
