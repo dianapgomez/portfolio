@@ -16,6 +16,20 @@
   </url>
   
   <url>
+    <loc>https://dianapgomez.github.io/portfolio/trabajos/</loc>
+    <lastmod>2019-05-20T00:34:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dianapgomez.github.io/portfolio/otras-aportaciones/</loc>
+    <lastmod>2019-05-25T14:34:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dianapgomez.github.io/portfolio/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://dianapgomez.github.io/portfolio/otras-aportaciones/grid/stardew-valley/</loc>
     <lastmod>2019-05-25T14:34:25+02:00</lastmod>
   </url>
@@ -58,6 +72,11 @@
   <url>
     <loc>https://dianapgomez.github.io/portfolio/otras-aportaciones/grid/altf4/</loc>
     <lastmod>2019-05-25T14:08:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dianapgomez.github.io/portfolio/otras-aportaciones/grid/foro-empleo/</loc>
+    <lastmod>2019-05-25T14:03:17+02:00</lastmod>
   </url>
   
   <url>
@@ -116,6 +135,11 @@
   </url>
   
   <url>
+    <loc>https://dianapgomez.github.io/portfolio/servicios/rrpp-y-comunicacion/</loc>
+    <lastmod>2019-05-05T16:18:11+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dianapgomez.github.io/portfolio/servicios/organizacion-de-eventos/</loc>
     <lastmod>2019-05-05T16:17:48+02:00</lastmod>
   </url>
@@ -146,25 +170,13 @@
   </url>
   
   <url>
-    <loc>https://dianapgomez.github.io/portfolio/otras-aportaciones/</loc>
-    <lastmod>2019-05-25T14:34:25+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dianapgomez.github.io/portfolio/servicios/</loc>
-    <lastmod>2019-05-05T16:17:48+02:00</lastmod>
+    <lastmod>2019-05-05T16:18:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dianapgomez.github.io/portfolio/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dianapgomez.github.io/portfolio/trabajos/</loc>
-    <lastmod>2019-05-20T00:34:23+02:00</lastmod>
     <priority>0</priority>
   </url>
   
