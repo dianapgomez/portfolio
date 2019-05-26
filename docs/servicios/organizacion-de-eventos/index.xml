@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organizacion De Eventos on Diana P. Gómez</title>
-    <link>/servicios/organizacion-de-eventos/</link>
+    <link>https://dianapgomez.github.io/portfolio/servicios/organizacion-de-eventos/</link>
     <description>Recent content in Organizacion De Eventos on Diana P. Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 05 May 2019 16:17:48 +0200</lastBuildDate>
     
-	<atom:link href="/servicios/organizacion-de-eventos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dianapgomez.github.io/portfolio/servicios/organizacion-de-eventos/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

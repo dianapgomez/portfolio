@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reportajes on Diana P. Gómez</title>
-    <link>/trabajos/grid/reportajes/</link>
+    <link>https://dianapgomez.github.io/portfolio/trabajos/grid/reportajes/</link>
     <description>Recent content in Reportajes on Diana P. Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 20 May 2019 00:34:23 +0200</lastBuildDate>
     
-	<atom:link href="/trabajos/grid/reportajes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dianapgomez.github.io/portfolio/trabajos/grid/reportajes/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

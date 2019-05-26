@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Student Game Meeting on Diana P. Gómez</title>
-    <link>/trabajos/grid/student-game-meeting/</link>
+    <link>https://dianapgomez.github.io/portfolio/trabajos/grid/student-game-meeting/</link>
     <description>Recent content in Student Game Meeting on Diana P. Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 19 May 2019 23:13:47 +0200</lastBuildDate>
     
-	<atom:link href="/trabajos/grid/student-game-meeting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dianapgomez.github.io/portfolio/trabajos/grid/student-game-meeting/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

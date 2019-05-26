@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Servicios on Diana P. Gómez</title>
-    <link>/servicios/</link>
+    <link>https://dianapgomez.github.io/portfolio/servicios/</link>
     <description>Recent content in Servicios on Diana P. Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 05 May 2019 16:17:48 +0200</lastBuildDate>
     
-	<atom:link href="/servicios/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dianapgomez.github.io/portfolio/servicios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Servicios</title>
-      <link>/servicios/servicios/</link>
+      <link>https://dianapgomez.github.io/portfolio/servicios/servicios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/servicios/servicios/</guid>
+      <guid>https://dianapgomez.github.io/portfolio/servicios/servicios/</guid>
       <description>Organización de eventos Gestión de espacios, contacto y coordinación con ponentes, programación cultural, etc.
 Ver más
 Producción Elaboración de presupuestos, contacto y gestión con proveedores, gestión de hospitalities, elaboración de escaletas y timmings de producción, etc.
@@ -26,20 +26,20 @@ Ver más</description>
     
     <item>
       <title>Organizacion De Eventos</title>
-      <link>/servicios/organizacion-de-eventos/</link>
+      <link>https://dianapgomez.github.io/portfolio/servicios/organizacion-de-eventos/</link>
       <pubDate>Sun, 05 May 2019 16:17:48 +0200</pubDate>
       
-      <guid>/servicios/organizacion-de-eventos/</guid>
+      <guid>https://dianapgomez.github.io/portfolio/servicios/organizacion-de-eventos/</guid>
       <description>La organización de eventos culturales es mi gran pasión. Disfruto de cada una de sus fases y la presión y responsabilidad del directo se convierten en mi motivación para esforzarme en mejorar el contenido, probar nuevos formatos y llevar las producciones un paso más allá.
 Mi objetivo en cada uno de los eventos que organizo y coordino es lograr una gran calidad de contenido y que los asistentes salgan de la sala con la sensación de que lo que acaban de vivir les ha aportado positivamente.</description>
     </item>
     
     <item>
       <title>Produccion</title>
-      <link>/servicios/produccion/</link>
+      <link>https://dianapgomez.github.io/portfolio/servicios/produccion/</link>
       <pubDate>Sun, 05 May 2019 16:14:05 +0200</pubDate>
       
-      <guid>/servicios/produccion/</guid>
+      <guid>https://dianapgomez.github.io/portfolio/servicios/produccion/</guid>
       <description>La producción me divierte y me motiva. Aunque a veces pueda parecer un trabajo desagradecido, tomar el control de las situaciones, conocer al detalle lo que va a pasar, coordinar equipos, garantizar el bienestar y comodidad en el ambiente de trabajo, encajar todo tipo de necesidades en un presupuesto y estrujarme la cabeza para encontrar la solución son tareas que me resultan de lo más estimulante.
 Producción audiovisual y de eventos:</description>
     </item>

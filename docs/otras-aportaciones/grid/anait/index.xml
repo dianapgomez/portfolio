@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entrevista en Anait Games on Diana P. Gómez</title>
-    <link>/otras-aportaciones/grid/anait/</link>
+    <link>https://dianapgomez.github.io/portfolio/otras-aportaciones/grid/anait/</link>
     <description>Recent content in Entrevista en Anait Games on Diana P. Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 25 May 2019 14:20:43 +0200</lastBuildDate>
     
-	<atom:link href="/otras-aportaciones/grid/anait/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dianapgomez.github.io/portfolio/otras-aportaciones/grid/anait/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
